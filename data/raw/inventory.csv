@@ -1,0 +1,42 @@
+product_id,product_name,category,unit_price,stock_quantity,last_updated
+P001,Hand Cream,Beauty,211.68,174,2025-12-09
+P002,Hair Oil,Beauty,68.93,441,2025-12-16
+P003,Power Bank,Electronics,147.10,440,2025-11-23
+P004,Face Serum,Beauty,439.04,66,2025-12-19
+P005,Throw Blanket,Home,169.89,287,2025-11-07
+P006,Desk Lamp,Home,147.01,238,2025-11-08
+P007,Sunscreen SPF50,Beauty,124.02,126,2025-11-10
+P008,Foam Roller,Sports,48.08,148,2025-12-31
+P009,Bluetooth Speaker,Electronics,175.95,315,2025-11-27
+P010,Python Tricks,Books,115.48,443,2025-12-28
+P011,Clean Architecture,Books,76.07,167,2025-12-30
+P012,Wireless Earbuds,Electronics,262.07,160,2025-11-13
+P013,Analytics Handbook,Books,344.59,255,2025-12-03
+P014,USB-C Hub,Electronics,212.73,450,2025-11-20
+P015,Jump Rope,Sports,226.33,46,2025-12-31
+P016,Data Engineering Basics,Books,179.99,234,2025-11-16
+P017,Water Bottle,Sports,100.74,180,2025-11-04
+P018,Coffee Grinder,Home,27.49,253,2025-12-09
+P019,SQL Cookbook,Books,397.64,334,2025-12-14
+P020,Mechanical Keyboard,Electronics,214.41,274,2025-11-01
+P021,Cycling Gloves,Sports,381.99,220,2025-11-09
+P022,Wall Clock,Home,397.69,372,2025-11-24
+P023,Statistics 101,Books,344.92,187,2025-11-03
+P024,Knife Set,Home,183.26,291,2025-12-06
+P025,Clay Mask,Beauty,91.62,283,2025-11-19
+P026,Lip Balm,Beauty,37.72,258,2025-11-29
+P027,Webcam HD,Electronics,345.16,143,2025-12-23
+P028,Gaming Mouse,Electronics,445.15,348,2025-12-10
+P029,Smart Watch,Electronics,57.87,499,2025-11-07
+P030,Plant Pot,Home,180.29,406,2025-11-22
+P031,Body Lotion,Beauty,253.24,187,2025-12-19
+P032,Running Belt,,69.20,308,2025-12-03
+P033,Air Purifier,Home,183.62,20,2025-11-03
+P034,Resistance Bands,Sports,22.32,365,2025-11-22
+P035,Shampoo Bar,Beauty,-19.99,265,2025-11-30
+P036,Yoga Mat,Sports,71.28,457,2025-12-03
+P037,Designing Pipelines,Books,67.20,476,2025-12-10
+P038,Ceramic Mug Set,Home,146.75,201,2025-12-10
+P039,The Pragmatic Coder,Books,334.00,lots,2025-12-08
+P040,Dumbbell Pair,Sports,154.69,424,2025-12-03
+P020,Mechanical Keyboard,Electronics,214.41,274,2025-11-01

@@ -1,0 +1,203 @@
+customer_id,first_name,last_name,email,country,signup_date
+C0187,Lucas,Khumalo,lucas.khumalo187@example.com,FR,2024-01-12
+C0141,Ethan,ADEYEMI,ethan.adeyemi141@example.com,BR,2023-07-30
+C0001,Olivia,Smith,olivia.smith1@example.com,IN,2023-03-31
+C0007,Zanele,Williams,zanele.williams7@example.com,NG,2024-10-12
+C0108,Priya,Garcia,PRIYA.GARCIA108@EXAMPLE.COM,FR,2023-04-27
+C0131,Mia,Brown,mia.brown131@example.com,AU,2023-04-28
+C0169,Sofia,SILVA,sofia.silva169@example.com,FR,2023-12-08
+C0145,Liam,Okafor,liam.okafor145@example.com,AU,2024-06-09
+C0142,  Sipho ,  Botha ,sipho.botha142@example.com,DE,2024-09-02
+C0086,Mateo,Nkosi,mateo.nkosi86@example.com,AU,2023-12-27
+C0033,Liam,Silva,liam.silva33@example.com,in,2023-03-24
+C0046,Zanele,Brown,two@@example.com,au,2024-02-26
+C0149,Mateo,Botha,mateo.botha149@example.com,IN,2024-09-11
+C0060,Noah,Smith,noah.smith60@example.com,FR,2023-06-30
+C0003,Isla,Rossi,isla.rossi3@example.com,de,2024-12-15
+C0044,Liam,nkosi,liam.nkosi44@example.com,US,2024-01-02
+C0189,Priya,OKAFOR,priya.okafor189@example.com,GB,2024-12-29
+C0053,Ethan,Nkosi,ethan.nkosi53@example.com,GB,2023-11-04
+C0161,sipho,Naidoo,SIPHO.NAIDOO161@EXAMPLE.COM,ng,2024-11-08
+C0146,Mateo,Johnson,mateo.johnson146@example.com,IN,2023-11-05
+C0077,Ethan,Dlamini,ethan.dlamini77@example.com,CA,2024-12-01
+C0127,Amara,Silva,amara.silva127@example.com,NG,2023-10-21
+C0014,SOFIA,Adeyemi,sofia.adeyemi14@example.com,IN,2023-01-12
+C0059,Daniel,Rossi,daniel.rossi59@example.com,ZA,2023-09-07
+C0139,Daniel,Khumalo,DANIEL.KHUMALO139@EXAMPLE.COM,IN,2024-10-22
+C0019,Liam,Garcia,LIAM.GARCIA19@EXAMPLE.COM,GB,2024-06-29
+C0181,Aisha,dlamini,aisha.dlamini181@example.com,ZA,2023-05-13
+C0190,Kwame,Johnson,kwame.johnson190@example.com,DE,2024-03-23
+C0025,Chloe,Garcia,chloe.garcia25@example.com,za,2023-12-29
+C0075,Ethan,Khumalo,ethan.khumalo75@example.com,GB,2023-06-17
+C0200,Sipho,Nkosi,sipho.nkosi200@example.com,AU,2023-05-17
+C0179,James,Nkosi,james.nkosi179@example.com,US,2024-10-08
+C0134,naledi,Nkosi,NALEDI.NKOSI134@EXAMPLE.COM,IN,2023-12-02
+C0192,James,garcia,james.garcia192@example.com,GB,2024-10-27
+C0198,Sipho,CHEN,sipho.chen198@example.com,IN,2024-07-21
+C0128,Zanele,  Adeyemi ,zanele.adeyemi128@example.com,DE,2024-10-05
+C0106,Isla,  Khumalo ,isla.khumalo106@example.com,NG,2023-02-22
+C0093,Lucas,dlamini,lucas.dlamini93@example.com,BR,2023-08-20
+C0066,Ethan,Dlamini,ethan.dlamini66@example.com,za,2024-02-03
+C0054,Kwame,Williams,kwame.williams54@example.com,FR,2024-03-06
+C0042,SOFIA,Patel,sofia.patel42@example.com,DE,2024-03-28
+C0152,Sofia,O'Brien,sofia.obrien152@example.com,GB,2023-04-04
+C0089,Lucas,Johnson,lucas.johnson89@example.com,IN,2023-05-10
+C0125,Mia,  Khumalo ,mia.khumalo125@example.com,FR,2024-01-26
+C0123,Mateo,,mateo.okafor123@example.com,NG,2023-10-22
+C0116,Kwame,silva,kwame.silva116@example.com,ng,2023-01-16
+C0197,Zanele,OKAFOR,zanele.okafor197@example.com,DE,2024-11-11
+C0006,Isla,Williams,isla.williams6@example.com,GB,2023-02-16
+C0040,Olivia,Okafor,olivia.okafor40@example.com,CA,2024-09-11
+C0061,KWAME,Khumalo,kwame.khumalo61@example.com,NG,2024-11-14
+C0055,Naledi,Brown,naledi.brown55@example.com,ca,2023-08-04
+C0030,  Chloe ,Taylor,CHLOE.TAYLOR30@EXAMPLE.COM,ZA,2023-09-29
+C0056,Sofia,Silva,sofia.silva56@example.com,IN,2024-04-29
+C0176,Daniel,Silva,daniel.silva176@example.com,BR,2024-10-29
+C0101,Liam,Rossi,LIAM.ROSSI101@EXAMPLE.COM,BR,2024-08-24
+C0096,Sipho,Brown,sipho.brown96@example.com,BR,2024-04-26
+C0002,MATEO,rossi,mateo.rossi2@example.com,IN,2023-07-23
+C0124,ISLA,Brown,isla.brown124@example.com,ZA,2024-12-07
+C0062,Kwame,Botha,kwame.botha62@example.com,IN,2024-03-12
+C0097,Lucas,Naidoo,lucas.naidoo97@example.com,FR,2023-09-28
+C0119,CHLOE,BOTHA,chloe.botha119@example.com,FR,2023-04-03
+C0135,Priya,Garcia,priya.garcia135@example.com,ZA,2023-04-30
+C0178,KWAME,Brown,kwame.brown178@example.com,BR,2023-06-12
+C0082,Daniel,Garcia,daniel.garcia82@example.com,NG,2023-11-29
+C0029,Liam,Botha,liam.botha29@example.com,DE,2024-02-21
+C0105,liam,Khumalo,liam.khumalo105@example.com,IN,2023-01-02
+C0117,Noah,Rossi,NOAH.ROSSI117@EXAMPLE.COM,CA,2023-12-13
+C0151,Sofia,Khumalo,sofia.khumalo151@example.com,GB,2023-11-17
+C0039,Lucas,Adeyemi,lucas.adeyemi39@example.com,IN,2023-11-03
+C0038,Noah,Nkosi,noah.nkosi38@example.com,IN,2024-12-21
+C0175,JAMES,Williams,james.williams175@example.com,IN,2024-01-29
+C0138,Sofia,Johnson,sofia.johnson138@example.com,AU,2023-08-11
+C0126,Mateo,Nkosi,mateo.nkosi126@example.com,ZA,2023-10-09
+C0045,Ethan,Garcia,ethan.garcia45@example.com,BR,2023-06-08
+C0171,noah,Garcia,noah.garcia171@example.com,GB,2023-07-01
+C0193,aisha,Okafor,aisha.okafor193@example.com,DE,2024-12-23
+C0158,Thandi,Patel,thandi.patel158@example.com,de,2024-08-02
+C0023,ZANELE,Smith,zanele.smith23@example.com,AU,2023-03-14
+C0088,  Thandi ,Mokoena,john.smith@,IN,2024-09-03
+C0160,Sofia,Khumalo,sofia.khumalo160@example.com,BR,2024-09-02
+C0107,Ethan,Patel,ethan.patel107@example.com,GB,2023-01-30
+C0157,Priya,Adeyemi,priya.adeyemi157@example.com,CA,2023-01-30
+C0026,Sofia,Rossi,sofia.rossi26@example.com,GB,2023-03-04
+C0063,Isla,Khumalo,isla.khumalo63@example.com,FR,2024-10-14
+C0130,  Aisha ,rossi,aisha.rossi130@example.com,IN,2024-05-28
+C0148,Daniel,Dlamini,daniel.dlamini148@example.com,BR,2024-10-10
+C0028,Thandi,Patel,THANDI.PATEL28@EXAMPLE.COM,IN,2023-04-11
+C0144,AMARA,Okafor,amara.okafor144@example.com,DE,2023-09-29
+C0143,Amara,patel,amara.patel143@example.com,DE,2023-04-23
+C0034,Thandi,Dlamini,thandi.dlamini34@example.com,BR,2023-09-10
+C0016,Amara,Patel,amara.patel16@example.com,CA,2024-10-16
+C0072,Aisha,Muller,aisha.muller72@example.com,NG,2023-01-20
+C0120,Sofia,Johnson,sofia.johnson120@example.com,CA,2023-01-30
+C0067,Mateo,Smith,mateo.smith67@example.com,au,2023-11-02
+C0064,Mia,Chen,mia.chen64@example.com,FR,2023-10-06
+C0024,Kwame,Garcia,kwame.garcia24@example.com,BR,2024-08-13
+C0164,PRIYA,Naidoo,priya.naidoo164@example.com,CA,2023-10-24
+C0004,Sofia,  O'Brien ,sofia.obrien4@example.com,ZA,2023-04-10
+C0137,Naledi,Khumalo,naledi.khumalo137@example.com,BR,2023-06-08
+C0174,Lucas,Patel,LUCAS.PATEL174@EXAMPLE.COM,US,2023-02-28
+C0036,Ethan,O'Brien,ethan.obrien36@example.com,AU,2023-03-16
+C0150,Sofia,johnson,sofia.johnson150@example.com,IN,2023-08-09
+C0163,Olivia,Williams,olivia.williams163@example.com,FR,2024-02-09
+C0051,Olivia,Adeyemi,olivia.adeyemi51@example.com,IN,2023-04-29
+C0121,Liam,O'Brien,liam.obrien121@example.com,IN,2024-02-26
+C0068,Naledi,Rossi,naledi.rossi68@example.com,NG,2023-08-13
+C0018,Priya,o'brien,priya.obrien18@example.com,CA,2023-09-03
+C0180,Aisha,Dlamini,aisha.dlamini180@example.com,BR,2023-06-03
+C0183,Sofia,Chen,sofia.chen183@example.com,NG,2023-07-16
+C0098,Mateo,Mokoena,mateo.mokoena98@example.com,DE,2023-03-15
+C0057,Thandi,Dlamini,thandi.dlamini57@example.com,fr,2024-11-19
+C0129,Olivia,Naidoo,olivia.naidoo129@example.com,GB,2023-10-30
+C0167,Mateo,Rossi,mateo.rossi167@example.com,US,2023-11-29
+C0058,Lucas,garcia,LUCAS.GARCIA58@EXAMPLE.COM,BR,2023-03-16
+C0177,Ethan,O'Brien,ethan.obrien177@example.com,AU,2023-03-28
+C0136,Noah,Naidoo,noah.naidoo136@example.com,in,2023-05-19
+C0078,Priya,Johnson,PRIYA.JOHNSON78@EXAMPLE.COM,AU,2023-03-12
+C0005,James,Nkosi,james.nkosi5@example.com,ZA,2023-03-22
+C0073,Isla,Naidoo,isla.naidoo73@example.com,US,2023-02-01
+C0050,Isla,o'brien,isla.obrien50@example.com,CA,2023-02-09
+C0185,Liam,O'Brien,liam.obrien185@example.com,DE,2024-12-10
+C0156,Olivia,Nkosi,olivia.nkosi156@example.com,ZA,2024-07-28
+C0153,Sipho,Dlamini,sipho.dlamini153@example.com,US,2024-08-23
+C0100,Daniel,Williams,daniel.williams100@example.com,GB,2024-09-04
+C0031,Daniel,Williams,daniel.williams31@example.com,NG,2023-06-08
+C0165,AISHA,Johnson,aisha.johnson165@example.com,FR,2024-05-27
+C0199,Amara,MULLER,amara.muller199@example.com,US,2024-01-01
+C0009,Thandi,  Botha ,thandi.botha9@example.com,IN,2023-08-13
+C0170,Thandi,dlamini,thandi.dlamini170@example.com,AU,2023-12-26
+C0037,Amara,Khumalo,AMARA.KHUMALO37@EXAMPLE.COM,IN,2023-09-29
+C0008,James,  Brown ,james.brown8@example.com,GB,2024-09-15
+C0041,  Ethan ,O'Brien,ethan.obrien41@example.com,US,2023-04-05
+C0188,Mateo,Khumalo,mateo.khumalo188@example.com,DE,2023-07-24
+C0094,Kwame,Muller,kwame.muller94@example.com,CA,2024-08-05
+C0104,Aisha,Johnson,aisha.johnson104@example.com,ZA,2024-07-17
+C0020,Noah,Okafor,noah.okafor20@example.com,BR,2024-03-09
+C0015,Olivia,Botha,olivia.botha15@example.com,DE,2024-04-09
+C0071,Sofia,  Okafor ,sofia.okafor71@example.com,NG,2023-12-01
+C0172,Chloe,Khumalo,chloe.khumalo172@example.com,BR,2024-10-20
+C0091,Amara,Silva,,CA,2024-05-04
+C0191,Sipho,Garcia,sipho.garcia191@example.com,ZA,2024-05-29
+C0147,DANIEL,Smith,daniel.smith147@example.com,NG,2024-12-30
+C0090,Mia,Naidoo,mia.naidoo90@example.com,NG,2023-04-16
+C0114,Zanele,Silva,zanele.silva114@example.com,NG,2024-12-23
+C0043,Isla,rossi,isla.rossi43@example.com,DE,2024-07-12
+C0110,Chloe,Taylor,chloe.taylor110@example.com,IN,2023-05-20
+C0115,Naledi,Muller,naledi.muller115@example.com,US,2023-05-10
+C0079,KWAME,O'Brien,kwame.obrien79@example.com,AU,2024-10-12
+C0154,Isla,botha,isla.botha154@example.com,ZA,2023-02-22
+C0084,Amara,chen,amara.chen84@example.com,FR,2024-12-08
+C0159,naledi,Dlamini,NALEDI.DLAMINI159@EXAMPLE.COM,FR,2024-01-21
+C0027,Naledi,o'brien,naledi.obrien27@example.com,DE,2024-03-08
+C0083,  Thandi ,Taylor,thandi.taylor83@example.com,CA,2024-07-23
+C0195,Priya,Chen,priya.chen195@example.com,FR,2024-03-05
+C0186,Priya,BROWN,priya.brown186@example.com,NG,2024-09-17
+C0187,Lucas,Khumalo,lucas.khumalo187@example.com,FR,2024-01-12
+C0155,Lucas,adeyemi,lucas.adeyemi155@example.com,NG,2023-08-18
+C0111,Sipho,Patel,sipho.patel111@example.com,CA,2023-01-03
+C0021,Ethan,Botha,ethan.botha21@example.com,AU,2024-03-24
+C0109,Daniel,johnson,daniel.johnson109@example.com,CA,2024-03-01
+C0022,kwame,Khumalo,kwame.khumalo22@example.com,FR,2024-08-25
+C0069,Mia,Rossi,mia.rossi69@example.com,DE,2024-04-23
+C0133,James,DLAMINI,james.dlamini133@example.com,CA,2024-08-21
+C0173,Priya,O'Brien,priya.obrien173@example.com,ng,2024-10-08
+C0182,Priya,Dlamini,priya.dlamini182@example.com,IN,2024-02-30
+C0128,Zanele,  Adeyemi ,zanele.adeyemi128@example.com,DE,2024-10-05
+C0048,Ethan,Khumalo,ethan.khumalo48@example.com,FR,2024-02-13
+C0087,Daniel,Patel,daniel.patel87@example.com,IN,2024-12-07
+C0099,Liam,Brown,liam.brown99@example.com,NG,2023-05-08
+C0113,Chloe,Nkosi,chloe.nkosi113@example.com,FR,2024-12-15
+C0103,Thandi,Silva,thandi.silva103@example.com,ZA,2023-12-08
+C0112,Lucas,Williams,lucas.williams112@example.com,NG,2024-07-05
+C0095,Priya,Naidoo,priya.naidoo95@example.com,FR,2023-09-28
+C0032,  Ethan ,WILLIAMS,ethan.williams32@example.com,au,2023-02-28
+C0070,Noah,Adeyemi,noah.adeyemi70@example.com,GB,2024-10-20
+C0085,Chloe,TAYLOR,chloe.taylor85@example.com,FR,2023-11-10
+C0168,Thandi,Adeyemi,no-at-sign.example.com,GB,2023-09-07
+C0013,Noah,Chen,noah.chen13@example.com,DE,2024-11-27
+C0092,Olivia,DLAMINI,olivia.dlamini92@example.com,de,2024-07-30
+C0074,Zanele,Mokoena,zanele.mokoena74@example.com,GB,2024-07-31
+C0049,Aisha,Patel,aisha.patel49@example.com,ZA,2024-11-26
+C0166,ISLA,Nkosi,ISLA.NKOSI166@EXAMPLE.COM,gb,2023-11-17
+C0196,PRIYA,Khumalo,priya.khumalo196@example.com,IN,2024-08-11
+C0065,Aisha,o'brien,aisha.obrien65@example.com,DE,2024-12-24
+C0122,  Mateo ,BROWN,mateo.brown122@example.com,FR,2024-05-24
+C0140,James,  Naidoo ,,NG,2023-04-04
+C0102,Amara,Patel,amara.patel102@example.com,NG,2023-10-12
+C0132,daniel,Dlamini,daniel.dlamini132@example.com,ZA,2024-07-24
+C0080,Daniel,Okafor,daniel.okafor80@example.com,IN,2024-05-10
+C0081,Daniel,Rossi,daniel.rossi81@example.com,GB,2023-10-13
+C0011,Aisha,Mokoena,aisha.mokoena11@example.com,CA,2023-05-23
+C0194,Chloe,Khumalo,CHLOE.KHUMALO194@EXAMPLE.COM,DE,2024-07-15
+C0012,Zanele,Botha,,AU,2023-08-13
+C0052,  Naledi ,SILVA,naledi.silva52@example.com,IN,2024-12-04
+C0076,Lucas,Johnson,lucas.johnson76@example.com,ZA,2024-02-11
+C0010,Aisha,NAIDOO,aisha.naidoo10@example.com,FR,2024-08-03
+C0118,Priya,Muller,priya.muller118@example.com,ZA,2023-11-21
+C0184,zanele,Okafor,zanele.okafor184@example.com,IN,2024-06-23
+C0017,  Kwame ,Adeyemi,kwame.adeyemi17@example.com,IN,2023-01-01
+C0035,MATEO,adeyemi,mateo.adeyemi35@example.com,AU,2023-09-25
+C0047,zanele,Patel,zanele.patel47@example.com,ng,2023-08-16
+C0162,Sofia,Taylor,sofia.taylor162@example.com,AU,2024-03-16

@@ -1,0 +1,26 @@
+{
+  "seed": 42,
+  "row_counts": {
+    "customers": 202,
+    "products": 41,
+    "orders": 1507,
+    "payments": 1310
+  },
+  "expected_rejected_records": {
+    "customers": 10,
+    "products": 4,
+    "orders": 22,
+    "payments": 9
+  },
+  "expected_reconciliation_exceptions": {
+    "MISSING_PAYMENT": 12,
+    "AMOUNT_MISMATCH": 10,
+    "DUPLICATE_PAYMENT": 6,
+    "PAYMENT_ON_CANCELLED_ORDER": 3,
+    "PRICE_MISMATCH": 15,
+    "ORPHAN_PAYMENT": 8,
+    "PAYMENT_FOR_REJECTED_ORDER": 8
+  },
+  "expected_awaiting_settlement_orders": 5,
+  "extract_cutoff_date": "2025-12-31"
+}
