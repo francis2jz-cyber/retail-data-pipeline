@@ -1,0 +1,3 @@
+# Only needed if you want to load into PostgreSQL instead of SQLite
+-r requirements.txt
+psycopg2-binary>=2.9
