@@ -213,3 +213,6 @@ docs/                        write-up, sample report, sample analytics output
 - One currency per run.
 - No scheduler. It would need cron / Task Scheduler / Airflow to run nightly.
 - It would be good to fail the run (or alert) if the rejection rate suddenly jumps.
+
+
+Licence: All rights reserved. Provided for viewing and evaluation only.
